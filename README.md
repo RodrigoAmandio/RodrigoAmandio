@@ -1,4 +1,9 @@
-### Hi there 👋
+#### Hello everyone!! 👋
+##### Welcome to my Github profile and thank you so much for visiting it!
+##### My name is Rodrigo Amandio 
+
+[![Linkedin Logo](https://th.bing.com/th/id/R.045185175b8df3641b7b83627c812c70?rik=%2fEdMJvX%2fP9nv0Q&riu=http%3a%2f%2ffiles.softicons.com%2fdownload%2fsocial-media-icons%2fflat-gradient-social-icons-by-guilherme-lima%2fpng%2f64x64%2fLinkedin.png&ehk=FlXAZTlybGPbtOtV8AXejZjwy05tWpivoFxhnPAiePE%3d&risl=&pid=ImgRaw&r=0)](https://www.linkedin.com/in/rodrigo-amandio/)
+
 
 <!--
 **RodrigoAmandio/RodrigoAmandio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
