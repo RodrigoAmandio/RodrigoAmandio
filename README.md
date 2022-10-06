@@ -1,8 +1,13 @@
 #### Hello everyone!! 👋
-##### Welcome to my Github profile and thank you so much for visiting it!
-##### My name is Rodrigo Amandio 
+##### My name is Rodrigo Amandio and welcome to my Github profile. Thank you so much for visiting it!
+#####  
 
-[![Linkedin Logo](https://th.bing.com/th/id/R.045185175b8df3641b7b83627c812c70?rik=%2fEdMJvX%2fP9nv0Q&riu=http%3a%2f%2ffiles.softicons.com%2fdownload%2fsocial-media-icons%2fflat-gradient-social-icons-by-guilherme-lima%2fpng%2f64x64%2fLinkedin.png&ehk=FlXAZTlybGPbtOtV8AXejZjwy05tWpivoFxhnPAiePE%3d&risl=&pid=ImgRaw&r=0)](https://www.linkedin.com/in/rodrigo-amandio/)
+
+
+
+<a href = "mailto:rodrigo_amandio2008@hotmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
+
+<a href="https://www.linkedin.com/in/rodrigo-amandio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 
 <!--
