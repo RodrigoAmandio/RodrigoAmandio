@@ -8,7 +8,6 @@ I am graduated as a Mechanical Engineer and I am actually taking my master´s de
 Here you are going to find projects using tools such as:
 - Python
 - SQL
-- VBA
 - Power BI
 
 Feel free to look at them and I will be very happy if I can inspire you in any way.
